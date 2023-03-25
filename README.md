@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sunil
-- 👀 I’m interested in building stuff such as apps websites.Thus, giving physical existence to my ideas.
+- 👀 I’m interested in building stuff such as apps and websites.Thus,giving physical existence to my ideas.
 - 🌱 I’m currently experimenting with three js and react
 - 📫 How to reach me 
           portfoilio: https://sunilimpereal.github.io/portfolio/
